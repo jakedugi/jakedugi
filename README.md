@@ -1,15 +1,15 @@
 ## 👋 Hi, I'm Jake Dugan
 
-🎓 MSc AI @ University of Edinburgh
+MSc AI @ University of Edinburgh
 
-💡 Interested in ML Engineering, AI Research, and Applied AI
+Interested in ML Engineering, AI Research, and Applied AI
 
 ---
 
-### 📄 Resume  
+### Resume  
 [Download Resume (PDF)](https://github.com/jakedugi/Jacob_Dugan_Resume/raw/main/Jacob_Dugan_Resume.pdf)
 
 ---
 
-### 🔗 Connect with Me  
+### Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/jakedugan) | [Email](mailto:jake@jakedugan.com)
