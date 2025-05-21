@@ -11,7 +11,6 @@ with experience in LLM prototyping, 3D generative models, and real-world CV/NLP 
 
 Actively seeking roles in:
 - ML Engineering · Applied AI Research · Generative AI
-- Data Science · Data Engineering (ML/Data-focused)
 
 ---
 
