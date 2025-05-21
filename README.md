@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Jake Dugan
 
-<!--
-**jakedugi/jakedugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc AI @ University of Edinburgh
 
-Here are some ideas to get you started:
+💡 Interested in ML Engineering, AI Research, and Applied AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📄 Resume  
+[Download Resume (PDF)](https://github.com/jakedugi/Jacob_Dugan_Resume/raw/main/Jacob_Dugan_Resume.pdf)
+
+---
+
+### 🔗 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/jakedugan) | [Email](mailto:jake@jakedugan.com)
