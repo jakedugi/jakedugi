@@ -30,8 +30,8 @@ Actively seeking roles in:
 
 Lightweight demos, class presentations, and collaborations:  
 
-• `simulation_enviroments_guest_lecture` – Guest lecture repo showing RL environments (DQN & SAC)  
-• `MAGNN_RecipeRecs` – Collaborator on MAGNN-based recipe recommender  
-• `CLIP_Segmentation_Demo` – Class project on zero-shot segmentation using CLIP  
+• [`simulation_enviroments_guest_lecture`](https://github.com/jakedugi/simulation_enviroments_guest_lecture) – Guest lecture repo showing RL environments (DQN & SAC)  
+• [`MAGNN_RecipeRecs`](https://github.com/sachinmloecher/AugmentedRecipeRecommendations) – Collaborator on MAGNN-based recipe recommender  
+• [`CLIP_Segmentation_Demo`](https://github.com/SamLB9/Semantic-Segmentation-on-the-Oxford-IIIT-Pet-Dataset) – Collaborator on zero-shot segmentation using CLIP  
 
 </details>
