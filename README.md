@@ -24,10 +24,14 @@ Actively seeking roles in:
 
 ---
 
-### Additional Contributions & Demonstrations
+<details>
+<summary>Additional Projects</summary>
+<br>
 
-These projects were developed for coursework or group presentations. They’re not intended to be production-ready (yet), but they demonstrate applied theory, RL methods, and research collaboration.
+Lightweight demos, class presentations, and collaborations:  
 
-- simulation_enviroments_guest_lecture — Guest lecture repo showing RL environments (DQN & SAC)
-- MAGNN Recipe Recs — Collaborator on MAGNN-based recipe recommender
-- Semantic Segmentation (CLIP fine-tune) — Class project on zero-shot segmentation finetuning CLIP
+• `simulation_enviroments_guest_lecture` – Guest lecture repo showing RL environments (DQN & SAC)  
+• `MAGNN_RecipeRecs` – Collaborator on MAGNN-based recipe recommender  
+• `CLIP_Segmentation_Demo` – Class project on zero-shot segmentation using CLIP  
+
+</details>
