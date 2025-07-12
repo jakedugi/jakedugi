@@ -7,7 +7,7 @@ Generative Models · NLP · CV · ML Systems
 
 I build reliable ML systems grounded in applied research.  
 Currently pursuing an MSc in AI at the University of Edinburgh (Sep '25),  
-with experience in LLM prototyping, 3D generative models, and real-world CV/NLP projects.
+with experience in LLM tooling, 3D generative models, and real-world NLP/CV projects.
 
 Actively seeking roles in:
 - ML Engineering · Applied AI Research · Generative AI
