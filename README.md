@@ -1,7 +1,7 @@
 ## Hi, I'm Jacob
 
 **ML Engineer & Applied AI Researcher**  
-Generative Models · NLP · CV · ML Systems
+NLP · CV · RL · ML Systems
 
 ---
 
