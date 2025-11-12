@@ -6,7 +6,7 @@ NLP · CV · RL · ML Systems
 ---
 
 I build reliable ML systems grounded in applied research.  
-Currently pursuing an MSc in AI at the University of Edinburgh (Sep '25),  
+MSc in AI at the University of Edinburgh,  
 with experience in LLM tooling, 3D generative models, and real-world NLP/CV projects.
 
 Actively seeking roles in:
