@@ -14,11 +14,6 @@ Actively seeking roles in:
 
 ---
 
-### Resume  
-[Download Resume (PDF)](https://github.com/jakedugi/Jacob_Dugan_Resume/raw/main/Jacob_Dugan_Resume.pdf)
-
----
-
 ### Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/jakedugan) · [Email](mailto:jake@jakedugan.com) · [Medium](https://medium.com/@jakedugi)
 
