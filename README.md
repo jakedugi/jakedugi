@@ -1,31 +1,35 @@
-## Hi, I’m Jacob 👋
-
+## Hi, I’m Jacob
 
 ### ML Engineer (Production Systems & LLM Infrastructure)
 
-
 I design, build, and ship production-grade artificial intelligence systems with robust evaluation, observability, and reliability. My work focuses on LLM-driven products (RAG, NLQ), scalable APIs, and repeatable evaluation infrastructure grounded in real-world constraints (latency, cost, SLOs, guardrails).
+
 ---
 
 ### Areas of Focus
-	•	End-to-end LLM systems (RAG, NLP query pipelines)
-	•	Evaluation harnesses & metrics dashboards
-	•	Production observability, monitoring, guardrails
-	•	Model serving, APIs, structured logging
+
+- End-to-end LLM systems (RAG, NLP query pipelines)  
+- Evaluation harnesses & metrics dashboards  
+- Production observability, monitoring, guardrails  
+- Model serving, APIs, structured logging
 
 ---
+
 ### Highlighted Work
 
-Enterprise-grade ML Systems
-• End-to-end NLQ → entity resolution → GraphQL execution pipeline
-– Contract-first OpenAPI 3.1, RBAC, production deployment
-– p50/p95/p99 latency metrics and service level objectives
+**Enterprise-grade ML Systems**
 
-• Evaluation harness for agentic RAG systems
-– 2,600+ eval runs, sliceable dashboards, CI schema gates
+- **End-to-end NLQ → entity resolution → GraphQL execution pipeline**  
+  - Contract-first OpenAPI 3.1, RBAC, production deployment  
+  - p50/p95/p99 latency metrics and service level objectives
 
-• FastAPI LLM match insights service
-– Multi-provider routing, rate limits, cost guardrails
+- **Evaluation harness for agentic RAG systems**  
+  - 2,600+ eval runs, sliceable dashboards, CI schema gates
+
+- **FastAPI LLM match insights service**  
+  - Multi-provider routing, rate limits, cost guardrails
+
+---
 
 MSc in AI at the University of Edinburgh,  
 with experience in LLM tooling, 3D generative models, and real-world NLP/CV projects.
