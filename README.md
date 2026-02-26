@@ -2,8 +2,6 @@
 
 ML Engineer (Production Systems & LLM Infrastructure)
 
-AI Systems · NLP · CV
-
 I design, build, and ship production-grade artificial intelligence systems with robust evaluation, observability, and reliability. My work focuses on LLM-driven products (RAG, NLQ), scalable APIs, and repeatable evaluation infrastructure grounded in real-world constraints (latency, cost, SLOs, guardrails).
 
 Areas of Focus
