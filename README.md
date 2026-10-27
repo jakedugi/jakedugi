@@ -41,10 +41,10 @@ ML engineer at Stats Perform. I build production LLM agents and the evaluation s
 <summary>Additional Projects</summary>
 <br>
 
-Lightweight demos, class presentations, and collaborations:  
-
-• [`simulation_enviroments_guest_lecture`](https://github.com/jakedugi/simulation_environments_guest_lecture) – Guest lecture repo showing RL environments (DQN & SAC)  
-• [`MAGNN_RecipeRecs`](https://github.com/sachinmloecher/AugmentedRecipeRecommendations) – Collaborator on MAGNN-based recipe recommender  
-• [`CLIP_Segmentation_Demo`](https://github.com/SamLB9/Semantic-Segmentation-on-the-Oxford-IIIT-Pet-Dataset) – Collaborator on zero-shot segmentation using CLIP  
+Lightweight demos, class presentations, and collaborations:
+ 
+- [`simulation_environments_guest_lecture`](https://github.com/jakedugi/simulation_environments_guest_lecture) – Guest lecture repo showing RL environments (DQN & SAC)
+- [`AugmentedRecipeRecommendations`](https://github.com/sachinmloecher/AugmentedRecipeRecommendations) – Collaborator on extending RecipeRec, a heterogeneous graph neural network recommender, with tag nodes and nutrition features; beat the original and all baselines (HitRate@10 +4.9%, NDCG@10 +4.75%)
+- [`Oxford-IIIT Pet segmentation`](https://github.com/SamLB9/Semantic-Segmentation-on-the-Oxford-IIIT-Pet-Dataset) – Collaborator on a benchmark of four segmentation models (UNet, autoencoder, CLIP-based, prompt-guided)
 
 </details>
