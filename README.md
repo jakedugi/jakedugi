@@ -1,46 +1,38 @@
-## Hi, I’m Jacob
-
-### ML Engineer (Production Systems & LLM Infrastructure)
-
-I design, build, and ship production-grade artificial intelligence systems with robust evaluation, observability, and reliability. My work focuses on LLM-driven products (RAG, NLQ), scalable APIs, and repeatable evaluation infrastructure grounded in real-world constraints (latency, cost, SLOs, guardrails).
-
+# Hi, I'm Jacob
+ 
+ML engineer at Stats Perform. I build production LLM agents and the evaluation systems that decide what ships.
+ 
 ---
-
+ 
 ### Areas of Focus
-
-- End-to-end LLM systems (RAG, NLP query pipelines)  
-- Evaluation harnesses & metrics dashboards  
-- Production observability, monitoring, guardrails  
-- Model serving, APIs, structured logging
-
+ 
+- LLM agents and structured retrieval (tool use, GraphQL, entity resolution)
+- Evaluation: benchmarks, deterministic checks plus LLM judges, regression gates
+- Production LLM services: multi-provider routing, guardrails, observability
+- Training and evaluation data design, with expert review in the loop
 ---
-
+ 
 ### Highlighted Work
-
-**Enterprise-grade ML Systems**
-
-- **End-to-end NLQ → entity resolution → GraphQL execution pipeline**  
-  - Contract-first OpenAPI 3.1, RBAC, production deployment  
-  - p50/p95/p99 latency metrics and service level objectives
-
-- **Evaluation harness for agentic RAG systems**  
-  - 2,600+ eval runs, sliceable dashboards, CI schema gates
-
-- **FastAPI LLM match insights service**  
-  - Multi-provider routing, rate limits, cost guardrails
-
----
-
-MSc in AI at the University of Edinburgh,  
-with experience in LLM tooling, 3D generative models, and real-world NLP/CV projects.
-
-Actively seeking roles in:
-- ML Engineering · Applied AI Research · Generative AI
+ 
+**At work (private code)**
+ 
+- **Evaluation platform for a pre-release LLM agent over sports data**
+  - Evaluations on 54 service PRs informed model and provider decisions and caught regressions before release
+  - Scoring stack of deterministic fact and entity checks plus an LLM judge; structured-output failures cut from 8.0% to 0 of 1,744
+- **Structured GraphQL retrieval path for the agent**
+  - Controlled A/B test: run errors −83%, input tokens −46%, median latency −30%
+- **LLM service behind Opta Arena match summaries**
+  - Multi-provider routing with fallbacks, circuit breakers and cost caps; 9 months in production at a 0.18% 5xx rate
+**Public work**
+ 
+- **[`corp_speech_risk_dataset`](https://github.com/jakedugi/corp_speech_risk_dataset)** · MSc dissertation (Edinburgh): a leakage audit falsified the quote-level hypothesis and led to a calibrated case-level legal-risk model; open dataset of 24K quotes across 125 federal cases, built from CourtListener
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16934610.svg)](https://doi.org/10.5281/zenodo.16934610)
+- Earlier research: stroke-care access mapping (first-author abstract, ISC 2024) · 3D VAE for neuroimaging synthesis
 
 ---
 
 ### Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/jakedugan) · [Email](mailto:jake@jakedugan.com) · [Medium](https://medium.com/@jakedugi)
+[LinkedIn](https://www.linkedin.com/in/jakedugan) · [Email](mailto:jake@jakedugan.com) · [Website](jakedugan.com)
 
 ---
 
