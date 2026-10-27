@@ -34,7 +34,7 @@ ML engineer at Stats Perform. I build production LLM agents and the evaluation s
 ---
 
 ### Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/jakedugan) · [Email](mailto:jake@jakedugan.com) · [Website](jakedugan.com)
+[LinkedIn](https://www.linkedin.com/in/jakedugan) · [Email](mailto:jake@jakedugan.com) · [Website]((https://jakedugan.com))
 
 ---
 
