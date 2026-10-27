@@ -23,6 +23,7 @@ ML engineer at Stats Perform. I build production LLM agents and the evaluation s
   - Controlled A/B test: run errors −83%, input tokens −46%, median latency −30%
 - **LLM service behind Opta Arena match summaries**
   - Multi-provider routing with fallbacks, circuit breakers and cost caps; 9 months in production at a 0.18% 5xx rate
+  
 **Public work**
  
 - **[`corp_speech_risk_dataset`](https://github.com/jakedugi/corp_speech_risk_dataset)** · MSc dissertation (Edinburgh): a leakage audit falsified the quote-level hypothesis and led to a calibrated case-level legal-risk model; open dataset of 24K quotes across 125 federal cases, built from CourtListener
