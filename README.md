@@ -26,8 +26,7 @@ ML engineer at Stats Perform. I build production LLM agents and the evaluation s
 **Public work**
  
 - **Legal risk in corporate speech** ([modeling](https://github.com/jakedugi/corp-speech-modeling-repo) · [data pipeline](https://github.com/jakedugi/corp-speech-data-repo) · [dataset](https://github.com/jakedugi/corp_speech_risk_dataset)) · MSc dissertation (Edinburgh): a leakage audit falsified the quote-level hypothesis and led to a calibrated case-level legal-risk model; open dataset of 24K quotes across 125 federal cases, built from CourtListener
-
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16934610.svg)](https://doi.org/10.5281/zenodo.16934610)
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16934610.svg)](https://doi.org/10.5281/zenodo.16934610)
 - Earlier research: stroke-care access mapping (first-author abstract, ISC 2024) · 3D VAE for neuroimaging synthesis
   [![DOI](https://img.shields.io/badge/DOI-10.1161%2Fstr.55.suppl__1.TMP41-blue)](https://doi.org/10.1161/str.55.suppl_1.TMP41)
 ---
